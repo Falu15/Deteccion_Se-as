@@ -16,3 +16,6 @@ Este proyecto utiliza Flutter para el frontend y Python para el backend. El obje
 2. Hacer cambios y probarlos localmente.
 3. Enviar un Pull Request a la rama `main`.
 Saludos A TODOS DE A`plicaciones moviles
+
+HOLAAAAAAAAAAAAAAAAAAAAAAAAA
+
